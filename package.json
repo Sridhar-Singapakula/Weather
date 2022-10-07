@@ -1,0 +1,22 @@
+{
+  "name": "sridhar",
+  "version": "1.0.0",
+  "description": "weatherApp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sridhar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "requests": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Weather"
+  },
+  "keywords": [
+    "WeatherAPI"
+  ]
+}
